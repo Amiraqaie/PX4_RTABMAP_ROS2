@@ -21,7 +21,7 @@ cd droneai_tf_publisher
 ros2 launch robot_state_publisher.launch.py
 
 dependecie : 
-	1. install rtabmap for ros2 from https://github.com/introlab/rtabmap_ros
+	1. install rtabmap for ros2 from https://github.com/introlab/rtabmap_ros/tree/ros2#rtabmap_ros
 	2. build and source the rtabmap repository in you terminal
 
 CTRL+SHIFT+T
